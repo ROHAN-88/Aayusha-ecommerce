@@ -4,13 +4,13 @@
   /* border-radius: 10rem; */
   box-shadow: 10px 10px 10px gray;
   margin: 1rem 5rem;
-  width: 400px;
+  width: 300px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
 }
 .card img {
-  width: 300px;
+  width: 200px;
 }
 .card button {
   width: 100%;
