@@ -1,0 +1,13 @@
+nav {
+  background: #e0ccbe;
+}
+h1 {
+  color: #3c3633;
+}
+.fixed-item {
+  position: sticky;
+  top: 0%;
+  right: 0%;
+  left: 0%;
+  z-index: 1;
+}
